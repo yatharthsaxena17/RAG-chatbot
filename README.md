@@ -1,0 +1,3 @@
+RAG Based chatbot
+
+Basic RAG Based chatbot using OpenAI API. 
